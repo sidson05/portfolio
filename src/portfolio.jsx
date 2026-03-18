@@ -308,7 +308,7 @@ const EXPERIENCE = [
         type: "Work"
     },
     {
-        title: "B.E. Information Technology",
+        title: "B.Tech Information Technology",
         company: "Ramrao Adik Institute of Technology",
         date: "202x - 202x",
         desc: "Minor in Data Science. Consistent academic track record with an 8.44 CGPA. Participated in multiple software projects.",
