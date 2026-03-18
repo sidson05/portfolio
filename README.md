@@ -3,7 +3,7 @@
 A personal developer portfolio template with a sleek, cyberpunk/sci-fi theme for showcasing projects, skills, and experience. Built using React and Vite.
 
 ## 🚀 Live Demo
-*(You can share a deployed link here if you host it on Vercel, Netlify, or GitHub Pages)*
+https://sidson05.github.io/portfolio/
 
 ## ✨ Features
 - **Modern UI:** Sci-fi, modern aesthetic with glowing components and interactive animations.
